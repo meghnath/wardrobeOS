@@ -9,7 +9,7 @@ git clone https://github.com/DWShuo/wardrobeOS.git
 
 ### Prerequisites
 
-Andrioid phone
+Android phone
 
 ### Installing
 
